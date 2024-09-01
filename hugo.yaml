@@ -1,4 +1,4 @@
-baseURL: /castrojo/bluefin-docsy
+baseURL: castrojo.github.io/bluefin-docsy/
 title: Goldydocs
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
